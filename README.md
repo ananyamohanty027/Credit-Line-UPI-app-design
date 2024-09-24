@@ -15,7 +15,7 @@ This repository contains design assets for the Credit Line UPI mobile app.
 - ![image](https://github.com/user-attachments/assets/5a5ce2c8-66f6-48a3-93d5-3daf18622117)
 - ![image](https://github.com/user-attachments/assets/735b40c2-c3f1-4213-80a9-4aa993800719)
 - ![image](https://github.com/user-attachments/assets/4f114eca-35c2-4c8a-9c84-b7969aa3b71e)
-- ![image](https://github.com/user-attachments/assets/a5ffc90a-cd0c-4a43-a5dd-147c964394a1)
+
 
 
 
